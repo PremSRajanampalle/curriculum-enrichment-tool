@@ -1,0 +1,12 @@
+langchain
+openai
+streamlit
+faiss-cpu
+tiktoken
+PyPDF2
+python-dotenv
+streamlit-extras
+pytube
+youtube-transcript-api
+backoff
+langchain_openai
